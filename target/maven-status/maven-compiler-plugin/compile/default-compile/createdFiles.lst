@@ -1,0 +1,7 @@
+com/farmacia/model/classes/Product.class
+com/farmacia/model/classes/StockProduct.class
+com/farmacia/database/Database.class
+com/farmacia/rest/JaxRsActivator.class
+com/farmacia/model/dao/StockProductDAO.class
+com/farmacia/database/DatabaseMySQL.class
+com/farmacia/rest/RestStockProduct.class
